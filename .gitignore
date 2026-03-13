@@ -1,0 +1,4 @@
+reports/
+venv/
+chat-logs/
+__pycache__/
